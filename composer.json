@@ -1,0 +1,28 @@
+{
+    "name": "erickmajor/binary-parser",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonas Raoni Soares da Silva",
+            "email": "jonas@raoni.org",
+            "homepage": "http://raoni.org",
+            "role": "Owner"
+        },
+        {
+            "name": "Erick Major dos Santos",
+            "email": "erick.major@yahoo.com.br",
+            "homepage": "http://erickmajor.github.io",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5",
+        "behat/behat": "^3.6@dev"
+    }
+}
