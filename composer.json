@@ -27,7 +27,8 @@
     },
     "autoload": {
         "psr-4": {
-            "ErickMajor\\Binary\\": "src/ErickMajor/Binary/"
+            "Converter\\Buffer\\": "src/Converter/Buffer/",
+            "Converter\\Parser\\": "src/Converter/Parser/"
         }
     }
 }
