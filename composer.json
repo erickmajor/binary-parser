@@ -1,6 +1,6 @@
 {
     "name": "erickmajor/binary-parser",
-    "description": "",
+    "description": "Binary Parser is a library that serializes and unserializes binary data in PHP.",
     "type": "library",
     "license": "MIT",
     "authors": [
