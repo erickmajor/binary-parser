@@ -30,5 +30,11 @@
             "Converter\\Buffer\\": "src/Converter/Buffer/",
             "Converter\\Parser\\": "src/Converter/Parser/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\Unit\\Converter\\Buffer\\": "test/unit/Converter/Buffer/",
+            "Test\\Unit\\Converter\\Parser\\": "test/unit/Converter/Parser/"
+        }
     }
 }
